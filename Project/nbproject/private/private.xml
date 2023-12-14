@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/PHU%20HAI/OneDrive/Documents/NetBeansProjects/Project/src/java/Filter/AuthenticationFilter.java</file>
+            <file>file:/C:/Users/PHU%20HAI/OneDrive/Documents/NetBeansProjects/Project/src/java/Dal/CategoryDao.java</file>
+            <file>file:/C:/Users/PHU%20HAI/OneDrive/Documents/NetBeansProjects/Project/src/java/Crud_product/UpdateproductServlet.java</file>
+            <file>file:/C:/Users/PHU%20HAI/OneDrive/Documents/NetBeansProjects/Project/src/java/Crud_product/ListproductServlet.java</file>
+            <file>file:/C:/Users/PHU%20HAI/OneDrive/Documents/NetBeansProjects/Project/src/java/Crud_people/UpdatecustomerServlet.java</file>
+            <file>file:/C:/Users/PHU%20HAI/OneDrive/Documents/NetBeansProjects/Project/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/PHU%20HAI/OneDrive/Documents/NetBeansProjects/Project/src/java/Controller/DisplayServlet.java</file>
+            <file>file:/C:/Users/PHU%20HAI/OneDrive/Documents/NetBeansProjects/Project/src/java/Filter/HomeFilter.java</file>
+            <file>file:/C:/Users/PHU%20HAI/OneDrive/Documents/NetBeansProjects/Project/src/java/Filter/PermissionFilter.java</file>
+            <file>file:/C:/Users/PHU%20HAI/OneDrive/Documents/NetBeansProjects/Project/src/java/Controller/LoginServlet.java</file>
+            <file>file:/C:/Users/PHU%20HAI/OneDrive/Documents/NetBeansProjects/Project/src/java/Crud_product/DetailproductServlet.java</file>
+            <file>file:/C:/Users/PHU%20HAI/OneDrive/Documents/NetBeansProjects/Project/web/view/listproduct.jsp</file>
+            <file>file:/C:/Users/PHU%20HAI/OneDrive/Documents/NetBeansProjects/Project/src/java/Dal/ProductDao.java</file>
+            <file>file:/C:/Users/PHU%20HAI/OneDrive/Documents/NetBeansProjects/Project/src/java/Controller/SignoutServlet.java</file>
+            <file>file:/C:/Users/PHU%20HAI/OneDrive/Documents/NetBeansProjects/Project/web/view/dashboard.jsp</file>
+        </group>
+    </open-files>
+</project-private>
